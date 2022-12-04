@@ -1,0 +1,44 @@
+{
+    "map": [
+        [
+            "GRASS",
+            "END",
+            "OBSTACLE",
+            "GRASS",
+            "GRASS",
+            "START"
+        ],
+        [
+            "GRASS",
+            "OBSTACLE",
+            "GRASS",
+            "GRASS",
+            "GRASS",
+            "GRASS"
+        ],
+        [
+            "GRASS",
+            "GRASS",
+            "GRASS",
+            "OBSTACLE",
+            "GRASS",
+            "GRASS"
+        ],
+        [
+            "GRASS",
+            "GRASS",
+            "GRASS",
+            "OBSTACLE",
+            "GRASS",
+            "GRASS"
+        ],
+        [
+            "GRASS",
+            "GRASS",
+            "GRASS",
+            "OBSTACLE",
+            "GRASS",
+            "GRASS"
+        ]
+    ]
+}

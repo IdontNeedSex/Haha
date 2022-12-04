@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa70d16033a1fa46b2b17acda575760, type: 3}
+  m_Name: FastTowerSettings
+  m_EditorClassIdentifier: 
+  TowerCost: 10
+  ProjectileCooldown: 1
+  ProjectileDamage: 5
+  ProjectileSpeed: 4
+  TowerRange: 3
+  TowerSprite: {fileID: 21300000, guid: 0d2cfca1105994b91974d96785edf6b2, type: 3}
